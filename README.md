@@ -5,7 +5,7 @@
 * Executar tempo estimado de tarefa de um projeto.
 
 #### Funções:
-Criar nome do projeto, tempo e iniciar.
+Criar um projeto com nome, tempo estimado e botão iniciar.
 Com opção de interrompero tempo decorrido e salva os dados no historico.
 Utilizando o storage da pagina.
 
