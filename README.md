@@ -6,7 +6,7 @@
 
 #### Funções:
 Criar um projeto com nome, tempo estimado e botão iniciar.
-Com opção de interrompero tempo decorrido e salva os dados no historico.
+Com opção de interromper o tempo decorrido e salvar os dados no historico.
 Utilizando o storage da pagina.
 
 ## Tecnologias Utilizadas
