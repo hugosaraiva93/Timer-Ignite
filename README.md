@@ -2,7 +2,7 @@
 #### Typescript 
 
 ### Objetivo
-* Executar tempo estimado de tarefa de um projeto.
+* Executar tempo estimado de tarefa de um projeto!!
 
 #### Funções:
 Criar um projeto com nome, tempo estimado e botão iniciar.
