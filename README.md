@@ -1,10 +1,10 @@
 # Timer-Ignite  🚀
-#### Typescript 
+Repositorio do projeto em Typescript 
 
-### Objetivo
+## Objetivo
 * Executar tempo estimado de tarefa de um projeto!!
 
-#### Funções:
+### Funções:
 Criar um projeto com nome, tempo estimado e botão iniciar.
 Com opção de interromper o tempo decorrido e salvar os dados no historico.
 Utilizando o storage da pagina.
@@ -19,4 +19,4 @@ Utilizando o storage da pagina.
 
 ## Plataforma:
  
-🚀 https://www.rocketseat.com.br/
+[Rocketseat](https://www.rocketseat.com.br/) 🚀
